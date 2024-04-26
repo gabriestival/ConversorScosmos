@@ -37,8 +37,7 @@ public class Convertidor{
             return -1; 
         } 
         catch (Exception e) 
-          {
-            // Manejar otros errores
+          {            
             e.printStackTrace();
             return -1; 
         }
